@@ -43,7 +43,7 @@ GoAbsensi adalah aplikasi presensi yang digunakan siswa / karyawan untuk melakuk
 
 ## Credit
 
-Abu Azis – [@abuzaio](https://instagram.com/aditiawar) – abuazis0204@gmail.ocm
+Abu Azis – [@aditiawar](https://instagram.com/aditiawar) – aditiawardani6@gmail.ocm
 
 # CC
 
