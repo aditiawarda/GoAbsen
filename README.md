@@ -7,9 +7,6 @@
 ## Description
 GoAbsensi adalah aplikasi presensi yang digunakan siswa / karyawan untuk melakukan absensi harian secara digital. Terdapat beberapa keamanan yang memperkuat akurasi data sehingga pengguna tidak bisa melakukan tindakan kecurangan.
 
-## Demo
-Get GoAbsensi on PlayStore <a href="https://play.google.com/store/apps/details?id=com.abuaziz.go_absensi">https://play.google.com/store/apps/details?id=com.abuaziz.go_absensi</a>
-
 <p><img  src="https://i.ibb.co/C8L3HSv/Go-Absensi-Feature-Graphic.png"/></p>
 
 ## Security Features
@@ -35,7 +32,7 @@ Get GoAbsensi on PlayStore <a href="https://play.google.com/store/apps/details?i
 
 ## Installing
 
-- git clone https://github.com/abuazis/GoAbsensi.git
+- git clone https://github.com/aditiawarda/GoAbsensi.git
 - flutter packages get
 - flutter run
 
@@ -45,6 +42,10 @@ Get GoAbsensi on PlayStore <a href="https://play.google.com/store/apps/details?i
   - CHANGE: APK release
 
 ## Credit
+
+Abu Azis – [@abuzaio](https://instagram.com/aditiawar) – abuazis0204@gmail.ocm
+
+# CC
 
 Abu Azis – [@abuzaio](https://instagram.com/abuzaio) – abuazis0204@gmail.ocm
 
